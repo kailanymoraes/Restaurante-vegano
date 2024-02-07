@@ -1,0 +1,139 @@
+*{
+    font-size: 16px;
+}
+
+li.title {
+    font-family: 'Rancho', cursive;
+    font-size: 4em;
+}
+
+li {
+    font-size: 1.2em;
+}
+
+div.chamada p {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 2.8em;
+    margin-left: 100px;
+}
+
+div.chamada span {
+    color: #2A9D8F;
+}
+
+div.icon ul li a {
+    text-decoration: none;
+    font-family: 'Libre Franklin', sans-serif;
+    color: #000;
+}
+
+div.title h2{
+    font-family: 'Rancho', cursive;
+    font-size: 3em;
+    margin-left: 600px;
+}
+
+div.title p {
+    font-family: 'Josefin Sans', sans-serif;
+    color: #e76f51;
+    font-size: 1.8em;
+    margin-left: 658px;
+}
+
+div.sobremesas h4 {
+    color: #e76f51;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.6em;
+}
+
+div.sobremesas h2 {
+    margin-top: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 2.6em;
+    margin-bottom: 18px;
+}
+
+div.sobremesas p {
+    font-family: 'Libre Franklin', sans-serif;
+    color: #333;
+}
+
+div.sobremesas span {
+    margin-top: 10px;
+    font-size: larger;
+    color: #000;
+}
+
+div.sobremesas a {
+    text-decoration: none;
+    color: #fff;
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: large;
+}
+
+div.almoco h4 {
+    color: #e76f51;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.6em;
+}
+
+div.almoco h2 {
+    margin-top: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 2.6em;
+    margin-bottom: 18px;
+}
+
+div.almoco p {
+    font-family: 'Libre Franklin', sans-serif;
+    color: #333;
+}
+
+div.almoco span {
+    margin-top: 10px;
+    font-size: larger;
+    color: #000;
+}
+
+div.almoco a {
+    text-decoration: none;
+    color: #fff;
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: large;
+}
+
+div.info h2 {
+    font-family: Rancho;
+    font-size: 96px;
+    font-weight: 400;
+    line-height: 119px;
+    letter-spacing: 0em;
+    text-align: left;    
+}
+
+footer h3 {
+    font-family: Josefin Sans;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #E76F51;
+}
+
+div.info p {
+    font-family: Libre Franklin;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+div.horario li {
+    font-family: Libre Franklin;
+    font-size: 14px;
+    text-align: left;
+    margin-top: 10px;
+}

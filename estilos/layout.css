@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div.container {
+    width: 1400px;
+    margin: 0 auto;
+}
+
+nav {
+    width: 95%;
+    height: 150px;
+}
+
+nav ul {
+    display: flex;
+    flex-flow: row wrap;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 60px;
+    margin-right: 60px;
+    font-family: 'Libre Franklin', sans-serif;
+    padding: 30px;
+}
+
+div.img {
+    background-image: url(../img/korean-dish-gc0e898cb5_1280\ 1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    width: 90%;
+    height: 88vh;
+    background-size: 500px;
+    margin-top: -46px;
+
+    
+}
+
+div.chamada {
+    margin-top: -480px;
+}
+
+div.chamada ul li {
+    list-style: none;
+}
+
+div.chamada li {
+    display: inline-block;
+    padding: 16px;
+    margin-left: 70px
+}
+
+div.chamada {
+    display: block;
+}
+
+div.chamada button {
+    color: #fff;
+    background-color: #E76F51;
+    width: 160px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 20px;
+    border-style: none ;
+    margin-top: 85px;
+    box-shadow:  4px 4px 10px #e76f51;
+}
+
+div.image img {
+    width: 400px;
+}
+
+div.icon ion-icon {
+    display: flex;
+    font-size: 1.8em;
+    margin-left: 10px;
+}
+
+div.icon ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 16px;
+    margin-top: 60px;
+    margin-left: 60px;
+}
+
+section.especialidades {
+    margin-top: 26px;
+    background-color: #efefef;
+
+}
+
+div.sobremesas {
+    margin-top: 120px;
+    margin-left: 100px;
+}
+
+div.sobremesas button {
+    background: #2A9D8F;
+    width: 10%;
+    height: 34px;
+    border: none;
+    margin-top: 15px;
+    border-radius: 18px;
+}
+
+div.morangos {
+    background-image: url(../img/granola-gd58857f68_1280\ 1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    width: 86%;
+    height: 72vh;
+    background-size: 500px;
+    margin-top: -400px;
+}
+
+div.sopa {
+    background-image: url(../img/vegan-g07dc68689_1280\ 1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    width: 46%;
+    height: 72vh;
+    background-size: 500px;
+    margin-top: 90px;
+}
+
+div.almoco button {
+    background: #2A9D8F;
+    width: 30%;
+    height: 34px;
+    border: none;
+    margin-top: 15px;
+    border-radius: 18px;
+}
+
+div.almoco {
+    display: flex;
+}
+
+div.sopa2 {
+    margin-top: 160px;
+    margin-left: 100px;
+}
+
+footer {
+    background-color: #333;
+    display: flex;
+    color: #efefef;
+    justify-content: space-around;
+}
+
+footer h2 {
+    margin-top: 50px;
+}
+
+footer h3 {
+    margin-top: 30px;
+}
+
+div.horario ul {
+    list-style: none;
+}

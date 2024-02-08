@@ -19,6 +19,7 @@ div.chamada p {
 
 div.chamada span {
     color: #2A9D8F;
+    font-size: 1em;
 }
 
 div.icon ul li a {
@@ -132,6 +133,13 @@ div.info p {
 }
 
 div.horario li {
+    font-family: Libre Franklin;
+    font-size: 14px;
+    text-align: left;
+    margin-top: 10px;
+}
+
+div.local {
     font-family: Libre Franklin;
     font-size: 14px;
     text-align: left;

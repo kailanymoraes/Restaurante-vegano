@@ -149,6 +149,7 @@ footer {
     display: flex;
     color: #efefef;
     justify-content: space-around;
+    height: 500px;
 }
 
 footer h2 {
@@ -161,4 +162,24 @@ footer h3 {
 
 div.horario ul {
     list-style: none;
+}
+
+div.local p {
+    display: flex;
+    margin-bottom: 30px;
+}
+
+div.local iframe {
+    width: 100%;
+    height: 50%;
+}
+
+div.icone {
+    margin-top: 20px;
+}
+
+div.icone ion-icon {
+    padding: 8px;
+    font-size: 40px;
+    margin-left: -8px;
 }
